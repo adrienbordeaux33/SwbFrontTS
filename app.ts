@@ -75,9 +75,9 @@ const adhesionLinkMarkup = `
 const newsMarkup = `
 				<div class="news-list" aria-label="Actualités de Street Workout Bordeaux">
 					<article class="news-item news-item-upcoming">
-						<div class="news-meta"><span>Prochain training</span><span>Dimanche 13 septembre 2026</span></div>
+						<div class="news-meta"><span>Prochain training</span><span>Octobre : Chaque dimanche</span></div>
 						<h3>Training au spot Queyries</h3>
-						<p>Retrouvez-nous au spot Queyries à partir de 14h pour un nouvel entraînement Street Workout.</p>
+						<p>Retrouvez-nous au spot Queyries de 14h à 17H pour un nouvel entraînement Street Workout.</p>
 						<address>21 parc d'activités des Queyries, 33000 Bordeaux</address>
 					</article>
 					<article class="news-item">
